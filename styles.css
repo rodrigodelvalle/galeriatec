@@ -17,3 +17,12 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+h1 {
+    text-decoration: underline;
+    font-size: 300%;
+}
+
+h2 {
+    font-size: 200%;
+}
